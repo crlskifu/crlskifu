@@ -4,7 +4,7 @@
 
 <p align="center">
   Hi i a lot love degrading and writing codes. <br>
-  nigger😱
+  svo😱
 </p>
 
 <p align="center">
