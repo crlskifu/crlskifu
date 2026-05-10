@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Hi i a lot love degrading and writing codes.
+  Hi i a lot love degrading and writing codes. <br>
   nigger😱
 </p>
 
