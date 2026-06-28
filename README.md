@@ -11,7 +11,7 @@
   <a href="https://t.me/crlskifu">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://discord.gg/crlskifu">
-    <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord">
+  <a href="https://x.com/crlskifu">
+    <img src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x">
   </a>
 </p>
