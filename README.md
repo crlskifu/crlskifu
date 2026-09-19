@@ -4,7 +4,6 @@
 
 <p align="center">
   Hi i a lot love degrading and writing codes. <br>
-  svo😱
 </p>
 
 <p align="center">
